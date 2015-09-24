@@ -9,7 +9,7 @@
 	return function observe(o, notify, signature) {
 
 		var observable,
-			isArray = Array.isArray(o) || o instanceof Array;
+		    isArray = Array.isArray(o) || o instanceof Array;
 
 		if(isArray){
 			observable = o.slice()
