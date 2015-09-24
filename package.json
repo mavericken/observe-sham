@@ -1,0 +1,18 @@
+{
+  "name": "observe-sham",
+  "version": "1.0.0",
+  "description": "basic object/array change detection in ES5",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sylvainpolletvillard/observe-sham.git"
+  },
+  "author": "Sylvain Pollet-Villard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sylvainpolletvillard/observe-sham/issues"
+  },
+  "homepage": "https://github.com/sylvainpolletvillard/observe-sham",
+}
